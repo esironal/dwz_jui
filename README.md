@@ -1,99 +1,99 @@
-github源码下载：https://github.com/dwzteam/dwz_jui
+github source download: https://github.com/dwzteam/dwz_jui
 
-DWZ富客户端框架(jQuery RIA framework), 是中国人自己开发的基于jQuery实现的Ajax RIA开源框架.
+DWZ rich client framework (jQuery RIA framework), is China's own development based on open source framework jQuery Ajax RIA implementation.
 
-DWZ富客户端框架设计目标是<b>简单实用、扩展方便、快速开发、RIA思路、轻量级</b>
+DWZ rich client framework design goal is <b> simple, practical, easy expansion, rapid development, RIA ideas, lightweight </b>
 
-DWZ支持用html扩展的方式来代替javascript代码, 基本可以保证程序员不董javascript, 也能使用各种页面组件和ajax技术. 如果有特定需求也可以扩展DWZ做定制化开化.
+DWZ support the use of html scalable way to replace the javascript code, which can not guarantee programmers Dong javascript, also can use various page components and ajax technology. If you have specific requirements can also be extended DWZ do civilized custom.
 
-国内很多程序员javascript不熟, 大大影响了开发速度. 使用DWZ框架自动邦定javascript效果. 不需要开发人员去关心javascript怎么写, 只要写标准html就可以了. DWZ简单扩展了html标准, 给HTML定义了一些特别的class 和attribute. DWZ框架会找到当前请求结果中的那些特别的class 和attribute, 并自动关联上相应的js处理事件和效果.
+Many programmers unfamiliar domestic javascript, greatly affected the development speed. Use automatic bonding DWZ framework javascript effect javascript does not require developers to care about how to write, writing can be a standard html. DWZ a simple extension of the standard html to HTML defines some special class and attribute. DWZ framework will find the current request results in those particular class and attribute, and automatically associate the corresponding js handle events and effects.
 
-DWZ基于jQuery可以非常方便的定制特定需求的UI组件, 并以jQuery插件的形式发布.
+DWZ based on jQuery can very easily customize the specific needs of UI components, and published in the form of jQuery plug-ins.
 
-欢迎大家提出建议, 我们将在下一版本中进一步调整和完善功能。
+We welcome suggestions, we will further adjust and improve the function in the next version.
 
-DWZ富客户端框架完全开源，可以免费获取全部源码。团队中的每个人都是开源的拥护者，都希望为中国软件开源事业尽自己的一份力量。
+DWZ rich client framework is completely open source, freely available full source code. The team everyone is open-source advocates, hope for the Chinese open source software business to do their part.
 
-DWZ官方微博 http://weibo.com/dwzui
-在线演示地址 http://j-ui.com
+DWZ official microblogging http://weibo.com/dwzui
+Online Demo http://j-ui.com
 
-<b>学习DWZ的建议</b>
-<ul>
-<li>通读DWZ文档，很多新手提的问题文档中都写了</li>
-<li>看demo每个组件演示效果和代码（留意组件html结构）</li>
-<li>建议安装firebug，用firebug看html结构、CSS和调试JS都非常方便。见附录一 firebug介绍</li>
-<li>对于初学者不建议看DWZ全部源码，但还是非常有必要看看dwz.ui.js和dwz.ajax.js </li>
-<li>可以从google code下载dwz_thinkphp版本，结合php后台去理解DWZ和服务器端的交互方式</li>
-</ul>
+<B> Learning DWZ recommendation </b>
+<Ul>
+<Li> read DWZ documents, a lot of problems in the documentation new laptop have written </li>
+<Li> see demo presentations and code for each component (note assembly html structure) </li>
+<Li> recommends installing firebug, firebug look with html structure, CSS and JS debugging is very convenient. See appendix describes a firebug </li>
+<Li> is not recommended for beginners DWZ see all the source code, but still very necessary to see dwz.ui.js and dwz.ajax.js </li>
+<Li> from google code download dwz_thinkphp version, combined with the background to understand DWZ php and server interaction </li>
+</Ul>
 
-<b>DWZ区别于其它JS框架，最大的优点</b>
-<ul>
-<li>完全开源，源码没有做任何混淆处理，方便扩展</li>
-<li>CSS和js代码彻底分离，修改样式方便</li>
-<li>简单实用，扩展方便，轻量级框架，快速开发</li>
-<li>仍然保留了html的页面布局方式</li>
-<li>支持HTML扩展方式调用UI组件，开发人员不需写js</li>
-<li>只要懂html语法不需精通js，就可以使用ajax开发后台</li>
-<li>基于jQuery，UI组件以jQuery插件的形式发布，扩展方便</li>
-</ul>
+<B> DWZ different from other JS framework, the biggest advantage </b>
+<Ul>
+<Li> completely open source, the source did not make any obfuscation, easy expansion </li>
+<Li> CSS and js code completely separate, easy to modify the style </li>
+<Li> simple, practical, easy expansion, lightweight frame, fast development </li>
+<Li> still retains the page layout of html </li>
+<Li> Support for HTML extensions invoke the UI components, developers do not need to write js </li>
+<Li> Just understand html syntax without proficient js, you can use ajax development background </li>
+<Li> Based on jQuery, UI components in the form of the release of jQuery plugins, extensions convenient </li>
+</Ul>
 
 
-<b>最新测试版SVN下载:</b>
+<B> Download the latest beta version of SVN: </b>
 https://code.csdn.net/dwzteam/
 
-<b>有偿服务:</b>
-<ul>
-<li>公司培训，技术支持，解决使用jUI过程中出现的全部疑难问题</li><li>定制化开发</li>
-</ul>
+<B> paid services: </b>
+<Ul>
+<Li> corporate training, technical support, solved using jUI occurred during all the difficult problems </li> <li> customized development </li>
+</Ul>
 
 
 
 
-<b>DWZ研发组联系方式:</b>
+<B> DWZ R & D Group Contact: </b>
 
-	合作电话：010-52897073	18600055221
-	技术支持：0571-88517625	17767167745
-	邮箱：support@jui.org
+	Cooperation Tel: 010-52897073 18600055221
+	Technical support: 0571-88517625 17767167745
+	E-mail: support@jui.org
 
-	DWZ创始人：
-	[北京]杜权(UI设计/制作)	d@jui.org
-	[杭州]吴平(Ajax开发)	w@jui.org
-	[杭州]张慧华(Ajax开发)	z@jui.org
+	DWZ founder:
+	[Beijing] Du rights (UI design /production) d@jui.org
+	[Hangzhou] Wu Ping (Ajax Development) w@jui.org
+	[Hangzhou] Zhang Huihua (Ajax Development) z@jui.org
 
-	新加入成员：
-	[北京]张涛	QQ:122794105
-	[北京]冀刚	QQ:63502308	jiweigang2008@tom.com
-	[南京]郑应海	QQ:55691650
-	[成都]COCO	QQ:80095667
+	New member:
+	[Beijing] Tao QQ: 122794105
+	[Beijing] Ji Gang QQ: 63502308 jiweigang2008@tom.com
+	[Nanjing] Zheng should sea QQ: 55691650
+	[Chengdu] COCO QQ: 80095667
 
-	官方微博(欢迎加入) http://weibo.com/dwzui 
+	Official microblogging (Welcome) http://weibo.com/dwzui 
 
-	jQuery.DWZ-jUI-1群 107983317
-	jQuery.DWZ-jUI-2群 69611933
-	jQuery.DWZ-jUI-3群 20866231
-	jQuery.DWZ-jUI-4群 369203
-	jQuery.DWZ-jUI-5群 85031937
-	jQuery.DWZ-jUI-6群 172602882
-	jQuery.DWZ-jUI-7群 210322217
-	jQuery.DWZ-jUI-8群 139067378
-	jQuery.DWZ-jUI-9群 59680552
-	jQuery.DWZ-jUI-10群 329597326
+	jQuery.DWZ-jUI-1 group 107,983,317
+	jQuery.DWZ-jUI-2 group 69,611,933
+	jQuery.DWZ-jUI-3 group 20,866,231
+	jQuery.DWZ-jUI-4 group 369203
+	jQuery.DWZ-jUI-5 group 85,031,937
+	jQuery.DWZ-jUI-6 group 172,602,882
+	jQuery.DWZ-jUI-7 group 210,322,217
+	jQuery.DWZ-jUI-8 group 139,067,378
+	jQuery.DWZ-jUI-9 group 59,680,552
+	jQuery.DWZ-jUI-10 Group 329 597 326
 
 
-<b>版权声明:</b>
+<B> Copyright Notice: </b>
 
-	jUI遵循Apache2开源协议发布，并提供免费使用。
-	版权所有Copyright © 2009-2013 by DWZ (http://j-ui.com) All rights reserved。
-	Apache Licence是著名的非盈利开源组织Apache采用的协议。
-	该协议和BSD类似，鼓励代码共享和尊重原作者的著作权，允许代码修改，再作为开源或商业软件发布。需要满足的条件： 
+	jUI follow Apache2 open source protocol released and free to use.
+	Copyright Copyright © 2009-2013 by DWZ (http://j-ui.com) All rights reserved.
+	Apache Licence is well-known non-profit organization Apache open source protocol used.
+	The agreement and BSD similar code-sharing and encourage respect for the author's copyright, allow code changes, and then publish as open source or commercial software. Conditions to be fulfilled:
 	
-	需要给代码的用户一份Apache Licence
-	如果你修改了代码，需要在被修改的文件中说明
-	在延伸的代码中（修改和有源代码衍生的代码中）需要带有原来代码中的协议，商标，专利声明和其他原来作者规定需要包含的说明
-	如果再发布的产品中包含一个Notice文件，则在Notice文
-	件中需要带有本协议内容。你可以在Notice中增加自己的许可，但不可以表现为对Apache Licence构成更改
+	Users need to code an Apache Licence
+	If you modify the code, a description of the file being modified
+	In the extension of the code (source code modifications and derived code) requires an agreement with the original code, trademarks, patents illustrate statements and other original authors need to include provisions
+	If the re-release of the product contains a Notice document, the text of the Notice
+	Member needs to have this agreement. You can add your own license in the Notice, but it may not constitute the performance of the Apache Licence Change
 	
-具体的协议参考：http://www.apache.org/licenses/LICENSE-2.0
+Specific protocol reference: http://www.apache.org/licenses/LICENSE-2.0
 
-	THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOTLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESSFOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THECOPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT,INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVERCAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICTLIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING INANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THEPOSSIBILITY OF SUCH DAMAGE.
+	THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOTLIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESSFOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THECOPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVERCAUSED AND ON ANY THEORY OF LIABILITY , WHETHER IN CONTRACT, STRICTLIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING INANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THEPOSSIBILITY OF SUCH DAMAGE. 
 	
